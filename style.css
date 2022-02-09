@@ -1,0 +1,26 @@
+body {
+  background-color: rgba(50, 13, 85, 0.822);
+  display: flex;
+  justify-content: center;
+}
+h1 {
+  display: block;
+}
+
+#btnStart {
+  margin-top: 100px;
+  width: 400px;
+  padding: 30px;
+  font-size: 40px;
+  color: white;
+  background-color: rgb(182, 151, 211);
+  border-radius: 20px;
+  font-weight: 700;
+}
+
+#div1 {
+  position: absolute;
+  margin-top: 300px;
+  display: flex;
+  flex-direction: column;
+}
